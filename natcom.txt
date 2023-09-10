@@ -1,0 +1,63 @@
+<record id="enzhelpdesk_supportaction_reassign" model="ir.actions.act_window">
+    <field name="name">Support</field>
+    <field name="type">ir.actions.act_window</field>
+    <field name="res_model">ticket.support</field>
+    <field name="view_mode">tree,form</field>
+    <field name="context">{}</field>
+    <field name="domain">[("reassign", "=", True)]</field> <!-- Add this line -->
+    <field name="help" type="html">
+        <p class="o_view_nocontent_smiling_face">
+            No Ticket !
+        </p>
+    </field>
+</record>
+
+
+natcoms_jan_mou - natcoms_customers_apis_new
+natcoms_customers_apis_new - 
+natcoms_jan_mou_enz - 
+natcomsfeb_email_form
+
+
+
+natcom_einvoice_report
+
+
+
+General Settings
+Users & Companies
+Translations
+Technical
+1
+User Enzapps (PHASE_TWO_SEP)
+Companies
+National Computer Systems Company
+Binary file
+National Computer Systems Company 
+الشركة الوطنية لأنظمة الحاسب الآلي
+ 
+General Information
+Zatca Configurations
+Contact	National Computer Systems Company
+Address	
+Al Matar
+3,8417983
+Al Ammariyah Dist
+JEDDAHMAKKHA (SA)22237
+Saudi Arabia
+Phone	6444777
+Email	hassan.jamman@natcom.com.sa
+Bank Name	saudi awwal bank
+IBAN	SA6045000000895037745001
+Account Name	National Computer Systems Co.
+Website	http://www.natcom.com.sa
+  
+Tax ID	300043283100003
+License	Commercial Registration number
+License Number (Other seller ID)	4030043979
+Company Registry	4030043979
+Currency	SAR
+Company Favicon	Binary file
+Group Vat No	
+  
+ 
